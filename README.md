@@ -15,6 +15,8 @@
   </a>
 </div>
 
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=fastvariable&icon=3&color=4)](https://visitcount.itsvg.in)
+####
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=fastvariable&icon=3&color=4" alt="Profile Views" />
+</p>
