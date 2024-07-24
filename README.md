@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=fastvariable&label=Profile%20Views&color=4&icon=7&pretty=true"/>
+  </a>
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fastvariable&show_icons=true&theme=radical" alt="fastvariable GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fastvariable&theme=radical" alt="GitHub Streak" />
@@ -16,7 +22,3 @@
 </div>
 
 ####
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=fastvariable&icon=3&color=4" alt="Profile Views" />
-</p>
