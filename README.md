@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=fastvariable&label=Profile%20Views&color=4&icon=7&pretty=true"/>
+    <img src="https://visitcount.itsvg.in/api?id=slattist&label=Profile%20Views&color=4&icon=7&pretty=true"/>
   </a>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fastvariable&show_icons=true&theme=radical" alt="fastvariable GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fastvariable&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=slattist&show_icons=true&theme=radical" alt="slattist GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=slattist&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
